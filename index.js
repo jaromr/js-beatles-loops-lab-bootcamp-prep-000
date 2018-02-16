@@ -22,4 +22,5 @@ function iLoveTheBeatles(myNumber){
     myNumber++
     
   } while(myNumber<15)
+  return myArray
 }
